@@ -1,0 +1,10 @@
+PODS:
+  - REMenu (1.7)
+
+DEPENDENCIES:
+  - REMenu (~> 1.7)
+
+SPEC CHECKSUMS:
+  REMenu: f9fb696fcc2f4a64511ffc99e251738f0ab6b945
+
+COCOAPODS: 0.28.0
